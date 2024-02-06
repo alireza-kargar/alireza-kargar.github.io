@@ -51,24 +51,24 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
 
 ## TEACHING & MENTORING EXPERIENCE
 
-- **Lecturer** in School of Electrical and Computer Engineering, University of Tehran. - **(2021-2022)**
-  - General Workshop course: **Manufacturing Methods, CAD/CAM, SOLIDWORKS, Simplify3D.*
+- **Lecturer** in School of Electrical and Computer Engineering, University of Tehran. 
+  - General Workshop course: *Manufacturing Methods, CAD/CAM, SOLIDWORKS, Simplify3D.*
 
-- **Instructor** in Scientific Association of Chemical and Polymer Engineering. - **(2021-2022)**
-  - Course: **Computer-aided Design, SOLIDWORKS.*
+- **Instructor** in Scientific Association of Chemical and Polymer Engineering. 
+  - Course: *Computer-aided Design, SOLIDWORKS.*
 
-- **Teaching Assistant** in School of Electrical and Computer Engineering, University of Tehran. -  **(2020-2021)**
-  - General Workshop course Chief-TA: **Manufacturing Methods, CAD/CAM, SOLIDWORKS, Simplify3D.*
+- **Teaching Assistant** in School of Electrical and Computer Engineering, University of Tehran. 
+  - General Workshop course Chief-TA: *Manufacturing Methods, CAD/CAM, SOLIDWORKS, Simplify3D.*
 
-- **Teaching Assistant** in School of Electrical and Computer Engineering, University of Tehran. - **(2019/2020)**
-  - Advance Robotics course TA: **Project design and grading.*
+- **Teaching Assistant** in School of Electrical and Computer Engineering, University of Tehran.
+  - Advance Robotics course TA: *Project design and grading.*
 
-**Mentor** in Advanced Robotics & Intelligent Systems Lab, University of Tehran. - **(2019/2024)**
-  - **Trained the Introduction of SolidWorks, 3D Print, Arduino and MATLAB to new members.*
+- **Mentor** in Advanced Robotics & Intelligent Systems Lab, University of Tehran.
+  - **Trained the Introduction of SolidWorks, 3D Print, Arduino and MATLAB to new members.
 
-- **Teaching Assistant** in College of Engineering, Islamic Azad University, West Tehran Branch. - **(2015-2016)**
- - Statics course TA: **Supervisor of students Homework.*
- - programming Mentor: **MATLAB & Simulink*
+- **Teaching Assistant** in College of Engineering, Islamic Azad University, West Tehran Branch.
+ - Statics course TA: *Supervisor of students Homework.*
+ - programming Mentor: *MATLAB & Simulink*
 
 
 
