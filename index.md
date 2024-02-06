@@ -58,7 +58,7 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
   - Advance Robotics course TA: *Project design and grading.*
 
 - **Mentor** in Advanced Robotics & Intelligent Systems Lab, University of Tehran.
-  - *Trained the Introduction of SolidWorks, 3D Print, Arduino and MATLAB to new members.
+  - *Trained the Introduction of SolidWorks, 3D Print, Arduino and MATLAB to new members.*
 
 - **Teaching Assistant** in College of Engineering, Islamic Azad University.  
   - Statics course TA: *Supervisor of students Homework and  and grading.*
