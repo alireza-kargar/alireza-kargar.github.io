@@ -5,7 +5,7 @@ description: Researcher | Mechatronic Engineer | CAD Designer
 
 baseurl: #name of GitHub repository
 url: "https://alireza-kargar.github.io/" #custom url to be used instead of GitHub repository
-email: #
+email: alir3za.kargar@gmail.com #
 
 # Pagination
 paginate: 4
@@ -14,14 +14,15 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 twitter: "#"
-linkedin: "#"
+linkedin: "alireza-kargar-18923914b"
 stackoverflow: "#"
-github: "#"
+github: "alireza-kargar"
 researchgate: "#"
 orcid: "#"
 quora: "#"
 instagram: "#"
 facebook: "#"
+googlescholar: "citations?user=kbts7oUAAAAJ&hl=en"
 
 
 # Markdown
