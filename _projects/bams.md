@@ -11,6 +11,7 @@ Designing a complex system like social robots is a tedious task that requires mu
 |:-:|
 |BAMS Facial Expression Module|
 
+
 The system design procedure was divided into three subsystems for better task management. The movement module handles robot motion, path planning, collision avoidance, and obstacle detection. The interaction module is responsible for facial expressions, audio feedback, and hand gestures. Lastly, the cognitive module is required for the intelligent behavior of the Robot, face recognition, voice localization, and emotion recognition.
 The importance of implementing the software part of the system based on the ROS (Robotic Operating System) ecosystem was self-explanatory from the beginning, so every module was designed and developed based on this to help future integrations. The interaction module was the first step because it could be the system's most cost-intensive and customizable part. Other than that, ASD experts should confirm its effectiveness in a child-robot interaction scenario. So, we chose to prototype a simple facial expression module and took some feedback from experts. After some consideration, we realized that our initial facial expression unit was far from acceptable, so we had to switch to an LCD-based system.
 
@@ -19,6 +20,9 @@ The importance of implementing the software part of the system based on the ROS 
 |:-:|
 |BAMS 1.0|
 
+|![BAMS1_movement](https://alireza-kargar.github.io/assets/bams/bams1_movement.gif)|
+|:-:|
+|BAMS 1.0 Interactions|
 
 In this prototype, BAMS 1.0, we prototyped and integrated a few parts for more complicated tests. A cheap character LCD in the middle of an IR sensor array on a small servo motor that could rotate 180 degrees and two microphones for each Robot's side. Facial expressions were presented as multiple bitmapped emojis, and the IR sensor array tracked hand movement around the Robot. Also, a basic sound localization system was provided for reaction to the voice commands. All the above functionalities were handled by an Arduino Mega 2560 selected to reduce cost and development time.
 
@@ -39,3 +43,11 @@ Though the project's overall cost gradually increased over time, it is still rea
 |![BAMS3](https://alireza-kargar.github.io/assets/bams/bams3.png)|
 |:-:|
 |BAMS 2.0 Interactions|
+
+|![BAMS2_head](https://alireza-kargar.github.io/assets/bams/bams2_head.gif)|
+|:-:|
+|BAMS 2.0 Head Movements|
+
+|![BAMS2_movement](https://alireza-kargar.github.io/assets/bams/bams2_movement.gif)|
+|:-:|
+|BAMS 2.0 Holonomic Locomotion|
