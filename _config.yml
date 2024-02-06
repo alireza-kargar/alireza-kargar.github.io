@@ -14,13 +14,13 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 twitter: 
-linkedin: "https://www.linkedin.com/in/alireza-kargar-18923914b/"
+linkedin: "alireza-kargar-18923914b"
 stackoverflow: 
 github: "alireza-kargar"
-researchgate: "#"
-orcid: "https://orcid.org/0009-0006-3311-0443"
+researchgate: 
+orcid: "0009-0006-3311-0443"
 quora:
-instagram: "#"
+instagram: 
 facebook:
 googlescholar: "https://scholar.google.com/citations?user=kbts7oUAAAAJ&hl=en"
 
