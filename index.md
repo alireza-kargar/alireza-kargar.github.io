@@ -7,7 +7,12 @@ profile:
 published: true
 ---
 
-I am a mechatronic engineer interested in designing and implementing novel mechanisms for different robotic approaches.
+I am a passionate Mechatronics engineer and Graduate Research Assistant on a journey defined by a relentless pursuit of pushing the boundaries of robotics. 
+
+As a dedicated researcher, my work extends beyond traditional boundaries. From Service Robots aiding in daily tasks to Rehabilitation Robots enhancing lives and Social Robots fostering human connections, I am committed to shaping the future of robotics through thoughtful design and meaningful human-robot interaction.
+
+With a focus on designing and implementing novel mechanisms, I am trying to bring a unique blend of creativity and technical expertise to every project. Explore my portfolio to witness the fusion of engineering precision and visionary design in service to creating intelligent, interactive, and purposeful robotic solutions.
+
 
 ## Interests
 Product and System design, Computer-aided design and manufacturing , Service Robots, Rehabilitation Robotics, Social Robots, Human and Robot Interaction
