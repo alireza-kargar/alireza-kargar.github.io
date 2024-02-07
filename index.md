@@ -35,7 +35,7 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
   - Vehicle's mini wind turbine
   - Automated awnings 
 
-## Publications
+## Publication
 
 - [2023 11th RSI International Conference on Robotics and Mechatronics (ICRoM)](https://doi.org/10.1109/ICRoM60803.2023.10412541)
   - Mehralizadeh, B., Soleiman, P., Nikkhoo, S., Rahimi, M., **Kargar, A.**, Masoumi, F. and Moradi, H., 2023, December. Multi-Modal ASD Screening System: A Preliminary Study. In 2023 11th RSI International Conference on Robotics and Mechatronics (ICRoM) (pp. 228-234). IEEE.
