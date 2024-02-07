@@ -48,7 +48,7 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
 - **Soft Skills**: Critical thinking, R&D team leadership, Systematic thinking
 - **Language**: English (Proficient), Farsi (Native)
 
-## TEACHING & MENTORING EXPERIENCE
+## Teaching & Mentoring Experience
 
 - **Lecturer** in School of Electrical and Computer Engineering, University of Tehran. 
   - General Workshop course: *Manufacturing Methods, CAD/CAM, SOLIDWORKS, Simplify3D.*
