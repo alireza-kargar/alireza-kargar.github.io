@@ -25,7 +25,7 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
 ## Research Experience
 
 - **Research Assistant in Advanced Robotics and Intelligent Systems Lab University of tehran**
-  - BAMS.V2 - Interactive social robot platform
+  - [BAMS - Interactive social robot platforms](https://alireza-kargar.github.io//projects/bams/)
   - NeuroLight - Wireless light modules to improve athletes' speed and agility
   - Cleaner Robot for glass facade buildings 
   - Elbow rehabilitation robotic system
