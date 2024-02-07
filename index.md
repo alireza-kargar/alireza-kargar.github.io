@@ -26,7 +26,7 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
 
 - **Research Assistant in Advanced Robotics and Intelligent Systems Lab University of tehran**
   - [BAMS - Interactive social robot platforms](https://alireza-kargar.github.io//projects/bams/)
-  - NeuroLight - Interactive light modules to improve athletes' speed and agility
+  - [NeuroLight - Interactive light modules](https://alireza-kargar.github.io//projects/neurolight/)
   - Cleaner Robot for glass facade buildings 
   - Elbow rehabilitation robotic system
   - Multi-modal ASD screening system
