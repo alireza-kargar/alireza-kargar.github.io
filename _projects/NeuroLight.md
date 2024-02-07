@@ -31,6 +31,6 @@ This device's original use is to increase people's speed and agility. They can i
 |:-:|
 |Wired and Battery-powered NeuroLight models|
 
-|![Exploded_view](https://alireza-kargar.github.io/assets/bams/exploded_view.gif)|
+|![Exploded_view](https://alireza-kargar.github.io/assets/neurolight/exploded_view.gif)|
 |:-:|
 |NeuroLight module exploded view|
