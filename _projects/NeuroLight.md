@@ -21,7 +21,7 @@ This device used ESP32 to access the Wi-Fi and Bluetooth to handle an RGB ring l
 
 The device works by choosing the desired number of modules and connecting them to the mobile phone through the application, and you can run programs on the modules designed by experts. These programs turn the RGB ring light on and off with programmable colors with a specific sequence and delay. Also, a buzzer is embedded inside each module, so more exercises involving the sense of hearing can be done in addition to eye and body coordination.
 
-|![Positioning](https://alireza-kargar.github.io/assets/neurolight/positioning.png)|
+|![Positioning](https://alireza-kargar.github.io/assets/neurolight/positioning.PNG)|
 |:-:|
 |Modules positioning on the floor and wall|
 
