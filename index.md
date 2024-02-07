@@ -26,7 +26,7 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
 
 - **Research Assistant in Advanced Robotics and Intelligent Systems Lab University of tehran**
   - [BAMS - Interactive social robot platforms](https://alireza-kargar.github.io//projects/bams/)
-  - NeuroLight - Wireless light modules to improve athletes' speed and agility
+  - NeuroLight - Interactive light modules to improve athletes' speed and agility
   - Cleaner Robot for glass facade buildings 
   - Elbow rehabilitation robotic system
   - Multi-modal ASD screening system
@@ -37,7 +37,7 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
 
 ## Publication
 
-- [2023 11th RSI International Conference on Robotics and Mechatronics (ICRoM)](https://doi.org/10.1109/ICRoM60803.2023.10412541)
+- [ICRoM 2023](https://doi.org/10.1109/ICRoM60803.2023.10412541)
   - Mehralizadeh, B., Soleiman, P., Nikkhoo, S., Rahimi, M., **Kargar, A.**, Masoumi, F. and Moradi, H., 2023, December. Multi-Modal ASD Screening System: A Preliminary Study. In 2023 11th RSI International Conference on Robotics and Mechatronics (ICRoM) (pp. 228-234). IEEE.
 
 ## Skills
