@@ -22,5 +22,5 @@ The second prototype was a canopy designed to prevent overheating the courtyards
 |:-:|
 |![Exhibition](https://alireza-kargar.github.io/assets/awnings/shade2.png)|
 |:-:|
-|*Awning Projects in the Research Week Exhibition at Islamic Azad University - 2016 *|
+|*Awnings in the Research Week Exhibition at Islamic Azad University - 2016*|
 
