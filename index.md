@@ -28,9 +28,9 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
   - [BAMS - Interactive social robot platforms](https://alireza-kargar.github.io//projects/bams/)
   - [NeuroLight - Interactive light modules](https://alireza-kargar.github.io//projects/neurolight/)
   - Cleaner Robot for glass facade buildings 
+  - [Multi-modal ASD screening system](https://doi.org/10.1109/ICRoM60803.2023.10412541)
   - Elbow rehabilitation robotic system
-  - Multi-modal ASD screening system
-
+  
 - **Research Assistant in College of Engineering, Islamic Azad University, West Tehran Branch**
   - [Vehicle's mini wind turbine](https://alireza-kargar.github.io//projects/turbine/)
   - [Automated awnings](https://alireza-kargar.github.io//projects/awnings/)
