@@ -42,7 +42,7 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
 
 ## Skills
 
-- **Programming**: Python, MATLAB, C/ C++ (Arduino), Ladder (PLC), GIT, ROS
+- **Programming**: Python, MATLAB, C/ C++ (Arduino), Ladder (PLC), Git, ROS
 - **CAD/CAM/CAE**: SOLIDWORKS, CATIA, MSC Adams, ABAQUS, 3D Print Softwares
 - **Professional skills**: Pneumatic & Hydraulic Systems
 - **Soft Skills**: Critical thinking, R&D team leadership, Systematic thinking
