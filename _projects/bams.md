@@ -4,10 +4,9 @@ title: BAMS Social Robot Platform
 description: Interactive Social Robot Platform for ASD Screening and Rehabilitation
 ---
 
-|In one of our previous projects, we developed a mobile robot for hand-eye coordination training to help children with autism retrain their fine motor skills. Our tests and consulting with experts found that interactive social robots have a considerable advantage in interacting with children with ASD (autism spectrum disorder). There are many prominent social robot platforms in the market, but the main problem with utilizing them in ASD rehabilitation is their cost. So, we decided to develop a simple integrated social robot platform for studying the social behaviors of children with ASD and ASD-related rehabilitation.
-Designing a complex system like social robots is a tedious task that requires multiple generations of prototyping. So, we decided to proceed with this complicated task with an agile development mindset. So, we designed and implemented different parts of the project modular, tested each individually, and then integrated all modules.|
+In one of our previous projects, we developed a mobile robot for hand-eye coordination training to help children with autism retrain their fine motor skills. Our tests and consulting with experts found that interactive social robots have a considerable advantage in interacting with children with ASD (autism spectrum disorder). There are many prominent social robot platforms in the market, but the main problem with utilizing them in ASD rehabilitation is their cost. So, we decided to develop a simple integrated social robot platform for studying the social behaviors of children with ASD and ASD-related rehabilitation.
+Designing a complex system like social robots is a tedious task that requires multiple generations of prototyping. So, we decided to proceed with this complicated task with an agile development mindset. So, we designed and implemented different parts of the project modular, tested each individually, and then integrated all modules.
 
-|:-:|
 
 |![BAMS0](https://alireza-kargar.github.io/assets/bams/bams1.png)|
 |:-:|
