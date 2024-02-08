@@ -20,7 +20,7 @@ The importance of implementing the software part of the system based on the ROS 
 |:-:|
 |BAMS 1.0|
 
-|![BAMS1_movement](https://alireza-kargar.github.io/assets/bams/bams1_movement.gif)|
+|:--------:|![BAMS1_movement](https://alireza-kargar.github.io/assets/bams/bams1_movement.gif)|
 |:-:|
 |BAMS 1.0 Interactions|
 
