@@ -32,7 +32,7 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
   - Multi-modal ASD screening system
 
 - **Research Assistant in College of Engineering, Islamic Azad University, West Tehran Branch**
-  - Vehicle's mini wind turbine
+  - [Vehicle's mini wind turbine](https://alireza-kargar.github.io//projects/turbine/)
   - [Automated awnings](https://alireza-kargar.github.io//projects/awnings/)
 
 ## Publication
