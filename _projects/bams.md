@@ -42,7 +42,10 @@ Though the project's overall cost gradually increased over time, it is still rea
 |![BAMS2](https://alireza-kargar.github.io/assets/bams/bams3.png)|
 |:-:|
 |BAMS 2.0 Interactions|
-
-|![BAMS2_head](https://alireza-kargar.github.io/assets/bams/bams2_head.gif)|![BAMS2_movement](https://alireza-kargar.github.io/assets/bams/bams2_movement.gif)|
-|:-----------------------------------------:|:-----------------------------------------:|
-|BAMS 2.0 Head Movements|BAMS 2.0 Base Motion|
+|:-:|
+|![BAMS2_head](https://alireza-kargar.github.io/assets/bams/bams2_head.gif)|
+|:-:|
+|BAMS 2.0 Head Movements|
+|![BAMS2_movement](https://alireza-kargar.github.io/assets/bams/bams2_movement.gif)|
+|:-:|
+|BAMS 2.0 Base Motion|
