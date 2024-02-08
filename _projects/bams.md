@@ -20,9 +20,9 @@ The importance of implementing the software part of the system based on the ROS 
 |:-:|
 |BAMS 1.0|
 
-|:   :|![BAMS1_movement](https://alireza-kargar.github.io/assets/bams/bams1_movement.gif)|:   :|
+|   |![BAMS1_movement](https://alireza-kargar.github.io/assets/bams/bams1_movement.gif)|   |
 |:-:|:---------------------------------------------------------------------------------|:-:|
-|BAMS 1.0 Interactions|
+||BAMS 1.0 Interactions||
 
 In this prototype, BAMS 1.0, we prototyped and integrated a few parts for more complicated tests. A cheap character LCD is in the middle of an IR sensor array on a small servo motor that can rotate 180 degrees, and there are two microphones for each Robot's side. Facial expressions were presented as multiple bitmapped emojis, and the IR sensor array tracked hand movement around the Robot. Also, a basic sound localization system was provided for reaction to the voice commands. All the above functionalities were handled by an Arduino Mega 2560 selected to reduce cost and development time.
 
