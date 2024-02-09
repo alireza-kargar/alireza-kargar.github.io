@@ -6,7 +6,7 @@ description: Conceptual design of a cleaning robot platform
 
 Skyscrapers and tall buildings have become more prevalent in our urban construction. Various facades and geometric designs are used in many iconic buildings, which cost significant budgets for cleaning and maintenance yearly. Different mechanical devices were developed to solve these issues and do the cleaning process. However, most of these mechanisms are used on flat surfaces, and their performance in overcoming obstacles is not usually acceptable.
 
-|![CleanerBot_V1](https://alireza-kargar.github.io/assets/CleanerBot/CleanerBot_2.PNG)|
+|![CleanerBot_V1](https://alireza-kargar.github.io/assets/CleanerBot/CleanerBot_1.png)|
 |:-:|
 |*The first glass façade cleaner Robot*|
 
