@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Rehabilitation device for fingers suffering from spasm
-description: Rehabilitation device
+title: Fingers rehabilitation device
+description: Rehabilitation device for fingers suffering from spasm
 ---
 
 Spasticity is one of the most common challenging disorders after nerve damage. Due to challenges that exist over time in the treatment process, some engineers have decided to build rehabilitation systems. In this project, we designed and implemented a device inspired by cylindrical tools and pieces commonly used in rehabilitation and physiotherapy centers. This device uses a structure consisting of two rows of rollers connected by three springs with different stiffnesses to adjust pressure and perform rehabilitation operations; also, three rollers exist in each row. These rows are installed in a module called "the Hand Holder." At the beginning of the rehabilitation operations, the patient's hand is placed between two rows of rollers in the Hand Holder. Then, it moves periodically back and forth in a linear mechanism to perform extension and flexion exercises.
- 
+
+ |:-:|
 |![FRD](https://alireza-kargar.github.io/assets/FRD/frd_1.png)|
 |:-:|
 |*Fingers Rehabilitation device*|
@@ -15,6 +16,7 @@ The electronic part of the rehabilitation system is implemented on the Arduino M
 **Implementation of extension and flexion exercises:** The system's main task is to perform extension and flexion operations for the hands of adult patients of different sizes. When therapists open and close patients' fingers, they apply a relatively constant force to them, opening and closing almost at a constant speed. So, after the patient's fingers are placed in the Hand Holder, the speed of the motor and the number of exercises are determined by the user. Then, the rehabilitation operation of opening and bending the fingers begins with the device. The patient ID number, the motor's initial speed, and the device's training number are shown on the device's graphical LCD. Also, when a technical fault occurs in the electronic part of the device, the problem and solution to fix it are displayed on the screen.
 **Data collection:** In the device, data collection is done by a Time-of-Flight (ToF) distance sensor. The distance of a marker mounted on the Hand Holder to the sensor is recorded and stored in the memory card. 
 
+|:-:|
 |![Diagram](https://alireza-kargar.github.io/assets/FRD/diagram.png)|
 |:-:|
 |*block diagram of the electronic part of the rehabilitation device*|
