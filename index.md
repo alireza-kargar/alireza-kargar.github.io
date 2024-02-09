@@ -41,8 +41,7 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
 ## Publication
 
 - [ICRoM 2023](https://doi.org/10.1109/ICRoM60803.2023.10412541)
-  - Mehralizadeh, B., Soleiman, P., Nikkhoo, S., Rahimi, M., **Kargar, A.**, Masoumi, F. and Moradi, H., 2023, December. Multi-Modal ASD Screening System: A Preliminary Study. In 2023 11th RSI International Conference on Robotics and Mechatronics (ICRoM) (pp. 228-234). IEEE.
-
+  - Mehralizadeh B, Soleiman P, Nikkhoo S, Rahimi M, **Kargar A**, Masoumi F, Moradi H. Multi-Modal ASD Screening System: A Preliminary Study. In2023 11th RSI International Conference on Robotics and Mechatronics (ICRoM) 2023 Dec 19 (pp. 228-234). IEEE.
 ## Skills
 
 - **Programming**: Python, MATLAB, C/ C++ (Arduino), Ladder (PLC), Git, ROS
