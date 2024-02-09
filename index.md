@@ -72,6 +72,6 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
   - Statics course TA: *Supervisor of students Homework and  and grading.*
 
 
-### Also, check out:
+## Also, check out:
 
-*[My CV](https://bijanmehr.github.io/assets/files/AlirezaKargar_CV.pdf)*
+### [My CV](https://alireza-kargar.github.io/assets/files/AlirezaKargar_CV.pdf)
