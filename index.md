@@ -29,7 +29,6 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
   - [NeuroLight - Interactive light modules](https://alireza-kargar.github.io//projects/neurolight/)
   - [Cleaner Robot for glass façade buildings](https://alireza-kargar.github.io//projects/cleanerbot/)
   - [Multi-modal ASD screening system](https://doi.org/10.1109/ICRoM60803.2023.10412541)
-  <-- - Elbow rehabilitation robotic system -->
   
 - **Research Assistant in College of Engineering, Islamic Azad University, West Tehran Branch**
   - [Vehicle's mini wind turbine](https://alireza-kargar.github.io//projects/turbine/)
