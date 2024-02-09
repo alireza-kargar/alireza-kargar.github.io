@@ -35,7 +35,7 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
   - [Automated awnings](https://alireza-kargar.github.io//projects/awnings/)
 
 - **Other Projects**
-  - [Fingers Rehabilitation device](https://alireza-kargar.github.io//projects/fingers-rehab/)
+  - [Fingers Rehabilitation device](https://alireza-kargar.github.io//projects/hsrd/)
   - [B.bot Mobile Robot](https://alireza-kargar.github.io//projects/bbot/) 
 
 ## Publication
