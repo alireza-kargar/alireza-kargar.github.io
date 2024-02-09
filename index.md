@@ -35,8 +35,7 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
   - [Vehicle's mini wind turbine](https://alireza-kargar.github.io//projects/turbine/)
   - [Automated awnings](https://alireza-kargar.github.io//projects/awnings/)
 
-## Other Projects
-
+- **Other Projects**
   - Fingers Rehabilitation device
   - B-bot Mobile Robot 
 
