@@ -74,4 +74,4 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
 
 ### Also, check out:
 
-## [My CV](https://bijanmehr.github.io/assets/files/AlirezaKargar_CV.pdf) 
+**[My CV](https://bijanmehr.github.io/assets/files/AlirezaKargar_CV.pdf)** 
