@@ -75,4 +75,4 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
 ### Also, check out:
 
 - [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
- [comment]: <> (- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog)
+# - [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
