@@ -28,7 +28,7 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
   - [Cleaner Robot for glass façade buildings](https://alireza-kargar.github.io//projects/cleanerbot/) 
   - [BAMS - Interactive social robot platforms](https://alireza-kargar.github.io//projects/bams/)
   - [NeuroLight - Interactive light modules](https://alireza-kargar.github.io//projects/neurolight/)
-  - [Multi-modal ASD screening system](https://doi.org/10.1109/ICRoM60803.2023.10412541)
+  - [Multi-modal ASD screening system](https://alireza-kargar.github.io//projects/mmass/)
   
 - **Research Assistant in College of Engineering, Islamic Azad University, West Tehran Branch**
   - [Vehicle's mini wind turbine](https://alireza-kargar.github.io//projects/turbine/)
@@ -42,7 +42,7 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
 
 - [ICRoM 2023](https://doi.org/10.1109/ICRoM60803.2023.10412541)
   - Mehralizadeh B, Soleiman P, Nikkhoo S, Rahimi M, **Kargar A**, Masoumi F, Moradi H. Multi-Modal ASD Screening System: A Preliminary Study. In2023 11th RSI International Conference on Robotics and Mechatronics (ICRoM) 2023 Dec 19 (pp. 228-234). IEEE.
-  
+ 
 ## Skills
 
 - **Programming**: Python, MATLAB, C/ C++ (Arduino), Ladder (PLC), ROS, Git
@@ -74,4 +74,4 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
 
 ### Also, check out:
 
-### [Download my CV](https://bijanmehr.github.io/assets/files/AlirezaKargar_CV.pdf) 
+## [My CV](https://bijanmehr.github.io/assets/files/AlirezaKargar_CV.pdf) 
