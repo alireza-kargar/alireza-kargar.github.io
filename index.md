@@ -42,9 +42,10 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
 
 - [ICRoM 2023](https://doi.org/10.1109/ICRoM60803.2023.10412541)
   - Mehralizadeh B, Soleiman P, Nikkhoo S, Rahimi M, **Kargar A**, Masoumi F, Moradi H. Multi-Modal ASD Screening System: A Preliminary Study. In2023 11th RSI International Conference on Robotics and Mechatronics (ICRoM) 2023 Dec 19 (pp. 228-234). IEEE.
+  
 ## Skills
 
-- **Programming**: Python, MATLAB, C/ C++ (Arduino), Ladder (PLC), Git, ROS
+- **Programming**: Python, MATLAB, C/ C++ (Arduino), Ladder (PLC), ROS, Git
 - **CAD/CAM/CAE**: SOLIDWORKS, CATIA, MSC Adams, ABAQUS, 3D Print Softwares
 - **Professional skills**: Pneumatic & Hydraulic Systems
 - **Soft Skills**: Critical thinking, R&D team leadership, Systematic thinking
@@ -73,5 +74,4 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
 
 ### Also, check out:
 
-- [My CV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-
+### [Download my CV](https://bijanmehr.github.io/assets/files/AlirezaKargar_CV.pdf) 
