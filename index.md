@@ -74,4 +74,4 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
 
 ## Also, check out:
 
-### [Downlod my CV](https://alireza-kargar.github.io/assets/files/AlirezaKargar_CV.pdf)
+### [My CV](https://alireza-kargar.github.io/assets/files/AlirezaKargar_CV.pdf)
