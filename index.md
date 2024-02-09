@@ -36,7 +36,7 @@ Product and System design, Computer-aided design and manufacturing , Service Rob
 
 - **Other Projects**
   - [Fingers Rehabilitation device](https://alireza-kargar.github.io//projects/fingers-rehab/)
-  - B.bot Mobile Robot 
+  - [B.bot Mobile Robot](https://alireza-kargar.github.io//projects/bbot/) 
 
 ## Publication
 
