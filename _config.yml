@@ -55,8 +55,9 @@ collections:
       - mmass.md
       - pBbot.md
       - HSRD.md
-      - turbine.md
       - awnings.md
+      - turbine.md
+      
 
 sass:
   sass_dir: /assets/css/_sass
