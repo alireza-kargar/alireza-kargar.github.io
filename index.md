@@ -15,7 +15,7 @@ With a focus on designing and implementing novel mechanisms, I am trying to brin
 
 
 ## Interests
-Product and System design, Computer-aided design and manufacturing , Service Robots, Rehabilitation Robotics, Social Robots, Human-Robot Interaction
+Robotics & System Design, Computer-aided Design & Manufacturing , Service Robots, Rehabilitation Robotics, Social Robots, Human-Robot Interaction
 
 ## Education
 
