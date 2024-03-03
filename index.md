@@ -25,7 +25,7 @@ Robotics & System Design, Computer-aided Design & Manufacturing, Service Robots,
 
 ## Research Experience
 
-- **Research Assistant in Advanced Robotics and Intelligent Systems Lab University of tehran**
+- **Research Assistant in Advanced Robotics and Intelligent Systems Lab University of Tehran**
   - [Cleaner Robot for glass façade buildings](https://alireza-kargar.github.io//projects/cleanerbot/) 
   - [BAMS - Interactive social robot platforms](https://alireza-kargar.github.io//projects/bams/)
   - [NeuroLight - Interactive light modules](https://alireza-kargar.github.io//projects/neurolight/)
