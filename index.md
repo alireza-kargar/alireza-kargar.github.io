@@ -11,7 +11,7 @@ I am a passionate Mechatronics engineer and Graduate Research Assistant on a jou
 
 As a dedicated researcher, my work extends beyond traditional boundaries. From Service Robots aiding in daily tasks to Rehabilitation Robots enhancing lives and Social Robots fostering human connections, I am committed to shaping the future of robotics through thoughtful design and meaningful human-robot interaction.
 
-With a focus on designing and implementing novel mechanisms, I am trying to bring a unique blend of creativity and technical expertise to every project. Explore my portfolio to witness the fusion of engineering precision and visionary design in service to creating intelligent, interactive, and purposeful robotic solutions.
+With a focus on designing and implementing novel systems, I am trying to bring a unique blend of creativity and technical expertise to every project. Explore my portfolio to witness the fusion of engineering precision and visionary design in service to creating intelligent, interactive, and purposeful robotic solutions.
 
 
 ## Interests
