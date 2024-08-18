@@ -43,6 +43,8 @@ Robotics & System Design, Computer-aided Design & Manufacturing, Service Robots,
 
 - [ICRoM 2023](https://doi.org/10.1109/ICRoM60803.2023.10412541)
   - Mehralizadeh B, Soleiman P, Nikkhoo S, Rahimi M, **Kargar A**, Masoumi F, Moradi H. Multi-Modal ASD Screening System: A Preliminary Study. In2023 11th RSI International Conference on Robotics and Mechatronics (ICRoM) 2023 Dec 19 (pp. 228-234). IEEE.
+- [IROS 2024](https://iros2024-abudhabi.org/)
+ - Koochakzadeh E, **Kargar A**, Sattari P, Ravanshid D, Nasiri R. Seven Benefits of Using Series Elastic Actuators in the Design of an Affordable, Simple Controlled, and Functional Prosthetic Hand. In The International Conference on Intelligent Robots and Systems (IROS 2024) – Accepted
  
 ## Skills
 
@@ -51,6 +53,8 @@ Robotics & System Design, Computer-aided Design & Manufacturing, Service Robots,
 - **Professional skills**: Pneumatic & Hydraulic Systems
 - **Soft Skills**: Critical thinking, R&D team leadership, Systematic thinking
 - **Language**: English (Proficient), Farsi (Native)
+
+<!-- 
 
 ## Teaching & Mentoring Experience
 
@@ -71,6 +75,8 @@ Robotics & System Design, Computer-aided Design & Manufacturing, Service Robots,
 
 - **Teaching Assistant** in College of Engineering, Islamic Azad University.  
   - Statics course TA: *Supervisor of students Homework and  and grading.*
+
+   -->
 
 
 ### Also, check out [my CV](https://alireza-kargar.github.io/assets/files/AlirezaKargar_CV.pdf)
