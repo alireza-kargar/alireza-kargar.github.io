@@ -27,7 +27,7 @@ Robotics & System Design, Collaborative Robotics, Service Robots, Human-Robot In
 ## Research Experience
 
 - **Research Assitant in Research Institute for Robotics, Artificial Intelligence & Information Science, University Of Tehran**
-  - [Prosthetic Hand](https://alireza-kargar.github.io//projects/ProstheticHand/) 
+  - [Prosthetic Hand](https://alireza-kargar.github.io//projects/prosthetichand/) 
 - **Research Assistant in Advanced Robotics and Intelligent Systems Lab, University of Tehran**
   - [Cleaner Robot for glass façade buildings](https://alireza-kargar.github.io//projects/cleanerbot/) 
   - [BAMS - Interactive social robot platforms](https://alireza-kargar.github.io//projects/bams/)
