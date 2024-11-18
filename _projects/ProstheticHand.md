@@ -5,7 +5,7 @@ description: A 3D printed prosthetic hand powered by SEA
 ---
 
 
-|![UnderPreparation.png](https://alireza-kargar.github.io/assets/images/UnderPreparation.png)|
+|![UnderPreparation.png](https://alireza-kargar.github.io/assets/ProstheticHand/UnderPreparation.png)|
 
 
 
