@@ -57,6 +57,7 @@ collections:
       - HSRD.md
       - awnings.md
       - turbine.md
+      - ProstheticHand.md
       
 
 sass:
