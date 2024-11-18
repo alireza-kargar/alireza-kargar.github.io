@@ -17,7 +17,7 @@ With a focus on designing and implementing novel systems, I am trying to bring a
 
 ## Interests
 
-Robotics & System Design, Computer-aided Design & Manufacturing, Service Robots, Human-Robot Interaction, Social Robot, Rehabilitation Robotics.
+Robotics & System Design, Collaborative Robotics, Service Robots, Human-Robot Interaction, Social Robot, Rehabilitation Robotics.
 
 ## Education
 
