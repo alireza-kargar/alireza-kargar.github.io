@@ -5,6 +5,7 @@ profile:
   align: right
   image: profile.png
 published: true
+
 ---
 
 I am a passionate Mechatronics engineer and Graduate Research Assistant on a journey defined by a relentless pursuit of pushing the boundaries of robotics. 
@@ -42,10 +43,14 @@ Robotics & System Design, Computer-aided Design & Manufacturing, Service Robots,
 ## Publication
 
 - [ICRoM 2023](https://doi.org/10.1109/ICRoM60803.2023.10412541)
-  - Mehralizadeh B, Soleiman P, Nikkhoo S, Rahimi M, **Kargar A**, Masoumi F, Moradi H. Multi-Modal ASD Screening System: A Preliminary Study. In2023 11th RSI International Conference on Robotics and Mechatronics (ICRoM) 2023 Dec 19 (pp. 228-234). IEEE.
-- [IROS 2024](https://iros2024-abudhabi.org/)
- - Koochakzadeh E, **Kargar A**, Sattari P, Ravanshid D, Nasiri R. Seven Benefits of Using Series Elastic Actuators in the Design of an Affordable, Simple Controlled, and Functional Prosthetic Hand. In The International Conference on Intelligent Robots and Systems (IROS 2024) – **Accepted**
+  - Mehralizadeh B, Soleiman P, Nikkhoo S, Rahimi M, **Kargar A**, Masoumi F, Moradi H. Multi-Modal ASD Screening System: A Preliminary Study. In 11th RSI International Conference on Robotics and Mechatronics (ICRoM) 2023 Dec 19 (pp. 228-234). IEEE.
+- [IROS 2024](https://www.researchgate.net/profile/Rezvan-Nasiri/publication/385272943_Seven_Benefits_of_Using_Series_Elastic_Actuators_in_the_Design_of_an_Affordable_Simple_Controlled_and_Functional_Prosthetic_Hand/links/671d0068edbc012ea13ee03e/Seven-Benefits-of-Using-Series-Elastic-Actuators-in-the-Design-of-an-Affordable-Simple-Controlled-and-Functional-Prosthetic-Hand.pdf)
+ - Koochakzadeh E, **Kargar A**, Sattari P, Ravanshid D, Nasiri R. Seven Benefits of Using Series Elastic Actuators in the Design of an Affordable, Simple Controlled, and Functional Prosthetic Hand. In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024).
  
+## Patent
+[Intelligent Underactuated Prosthetic Hand Using Series Elastic Actuators](https://ipm.ssaa.ir/Search-Result?page=1&DecNo=140350140003001480&RN=111415)
+
+
 ## Skills
 
 - **Programming**: Python, MATLAB, C/ C++ (Arduino), Ladder (PLC), ROS, Git
@@ -79,4 +84,4 @@ Robotics & System Design, Computer-aided Design & Manufacturing, Service Robots,
    -->
 
 
-### Also, check out [my CV](https://alireza-kargar.github.io/assets/files/AlirezaKargar_CV.pdf)
+### Also, check out [my CV](https://alireza-kargar.github.io/assets/files/CV-AlirezaKargar.pdf)
