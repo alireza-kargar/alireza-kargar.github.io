@@ -51,9 +51,8 @@ Robotics & System Design, Collaborative Robotics, Service Robots, Human-Robot In
   - Koochakzadeh E., **Kargar A.**, Sattari P., Ravanshid D., Nasiri R., Seven Benefits of Using Series Elastic Actuators in the Design of an Affordable, Simple Controlled, and Functional Prosthetic Hand. In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024).
  
 ## Patent
-
-- **Kargar A.**, Koochakzadeh E., and Nasiri R., "Intelligent underactuated prosthetic hand using series elastic actuators," Iranian Patent 111415, 2024. [Available Online](https://ipm.ssaa.ir/Search-Result?page=1&DecNo=140350140003001480&RN=111415)
-
+-[Intelligent underactuated prosthetic hand using series elastic actuators](https://ipm.ssaa.ir/Search-Result?page=1&DecNo=140350140003001480&RN=111415)
+ - **Kargar A.**, Koochakzadeh E., and Nasiri R., Iranian Patent 111415, 2024. 
 
 
 ## Skills
