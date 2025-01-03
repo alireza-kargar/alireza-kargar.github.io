@@ -53,8 +53,8 @@ Robotics & System Design, Collaborative Robotics, Service Robots, Human-Robot In
 ## Patent
 
 - [Intelligent underactuated prosthetic hand using series elastic actuators](https://ipm.ssaa.ir/Search-Result?page=1&DecNo=140350140003001480&RN=111415)
- - **Kargar A.**, Koochakzadeh E., and Nasiri R., Iranian Patent 111415, 2024. 
-
+  - **Kargar A.**, Koochakzadeh E., and Nasiri R., Iranian Patent 111415, 2024. 
+ 
 
 ## Skills
 
