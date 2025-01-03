@@ -47,7 +47,7 @@ Robotics & System Design, Collaborative Robotics, Service Robots, Human-Robot In
 - [ICRoM 2023](https://doi.org/10.1109/ICRoM60803.2023.10412541)
   - Mehralizadeh B, Soleiman P, Nikkhoo S, Rahimi M, **Kargar A**, Masoumi F, Moradi H. Multi-Modal ASD Screening System: A Preliminary Study. In 11th RSI International Conference on Robotics and Mechatronics (ICRoM) 2023 Dec 19 (pp. 228-234). IEEE.
 
-- [IROS 2024](https://www.researchgate.net/profile/Rezvan-Nasiri/publication/385272943_Seven_Benefits_of_Using_Series_Elastic_Actuators_in_the_Design_of_an_Affordable_Simple_Controlled_and_Functional_Prosthetic_Hand/links/671d0068edbc012ea13ee03e/Seven-Benefits-of-Using-Series-Elastic-Actuators-in-the-Design-of-an-Affordable-Simple-Controlled-and-Functional-Prosthetic-Hand.pdf)
+- [IROS 2024](https://doi.org/10.1109/IROS58592.2024.10803048)
   - Koochakzadeh E, **Kargar A**, Sattari P, Ravanshid D, Nasiri R. Seven Benefits of Using Series Elastic Actuators in the Design of an Affordable, Simple Controlled, and Functional Prosthetic Hand. In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024).
  
 ## Patent
