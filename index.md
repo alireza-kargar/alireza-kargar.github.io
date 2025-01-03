@@ -27,7 +27,7 @@ Robotics & System Design, Collaborative Robotics, Service Robots, Human-Robot In
 ## Research Experience
 
 - **Research Assitant in Research Institute for Robotics, Artificial Intelligence & Information Science, University Of Tehran**
-  - [Prosthetic Hand](https://alireza-kargar.github.io//projects/prosthetichand/) 
+  - [Prosthetic Hand Using Series Elastic Actuators](https://alireza-kargar.github.io//projects/prosthetichand/) 
 - **Research Assistant in Advanced Robotics and Intelligent Systems Lab, University of Tehran**
   - [Cleaner Robot for glass façade buildings](https://alireza-kargar.github.io//projects/cleanerbot/) 
   - [BAMS - Interactive social robot platforms](https://alireza-kargar.github.io//projects/bams/)
@@ -45,13 +45,15 @@ Robotics & System Design, Collaborative Robotics, Service Robots, Human-Robot In
 ## Publication
 
 - [ICRoM 2023](https://doi.org/10.1109/ICRoM60803.2023.10412541)
-  - Mehralizadeh B, Soleiman P, Nikkhoo S, Rahimi M, **Kargar A**, Masoumi F, Moradi H. Multi-Modal ASD Screening System: A Preliminary Study. In 11th RSI International Conference on Robotics and Mechatronics (ICRoM) 2023 Dec 19 (pp. 228-234). IEEE.
+  - Mehralizadeh B., Soleiman P., Nikkhoo S., Rahimi M., **Kargar A.**, Masoumi F., Moradi H., Multi-Modal ASD Screening System: A Preliminary Study. In 11th RSI International Conference on Robotics and Mechatronics (ICRoM) 2023 Dec 19 (pp. 228-234). IEEE.
 
 - [IROS 2024](https://doi.org/10.1109/IROS58592.2024.10803048)
-  - Koochakzadeh E, **Kargar A**, Sattari P, Ravanshid D, Nasiri R. Seven Benefits of Using Series Elastic Actuators in the Design of an Affordable, Simple Controlled, and Functional Prosthetic Hand. In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024).
+  - Koochakzadeh E., **Kargar A.**, Sattari P., Ravanshid D., Nasiri R., Seven Benefits of Using Series Elastic Actuators in the Design of an Affordable, Simple Controlled, and Functional Prosthetic Hand. In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024).
  
 ## Patent
-- [Intelligent Underactuated Prosthetic Hand Using Series Elastic Actuators](https://ipm.ssaa.ir/Search-Result?page=1&DecNo=140350140003001480&RN=111415)
+
+- **Kargar A.**, Koochakzadeh E., and Nasiri R., "Intelligent underactuated prosthetic hand using series elastic actuators," Iranian Patent 111415, 2024. [Available Online](https://ipm.ssaa.ir/Search-Result?page=1&DecNo=140350140003001480&RN=111415)
+
 
 
 ## Skills
