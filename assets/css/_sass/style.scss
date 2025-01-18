@@ -1,5 +1,6 @@
 html, body {
   height: 100%;
+  text-align: justify;
 }
 
 body {
@@ -18,6 +19,7 @@ body {
   @media (prefers-color-scheme: dark) {
     background-color: $body-bg-dark;
     color: $text-color-dark;
+    text-align: justify;
   }
 }
 

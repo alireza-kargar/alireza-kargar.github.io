@@ -49,10 +49,12 @@
 }
 
 .projectTile a span p {
+  text-align: justify;
   display: none;
 }
 
 .projectTile:hover a span p {
+  text-align: justify;
   font-size: 1.2rem;
   display: flex;
   padding: 1rem;
