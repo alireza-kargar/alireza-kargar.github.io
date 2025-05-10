@@ -50,18 +50,22 @@ Robotics & System Design, Collaborative Robotics, Service Robots, Human Centerd 
 - [IROS 2024](https://doi.org/10.1109/IROS58592.2024.10803048)
   - Koochakzadeh E., **Kargar A.**, Sattari P., Ravanshid D., Nasiri R., Seven Benefits of Using Series Elastic Actuators in the Design of an Affordable, Simple Controlled, and Functional Prosthetic Hand. In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024).
  
+- [IROS 2025](https://www.iros25.org/) *(Under Review)*
+ - Koochakzadeh E., **Kargar A.**, Amirabadizadeh E., Zakerzadeh M., Nasiri R., Design of Tendon-Driven Prosthetic Fingers to Improve Compactness and Kinematic Coordination During Grasp: A Comparative Experimental Study. In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2025).
+ 
+
 ## Patent
 
 - [Intelligent underactuated prosthetic hand using series elastic actuators](https://ipm.ssaa.ir/Search-Result?page=1&DecNo=140350140003001480&RN=111415)
   - **Kargar A.**, Koochakzadeh E., and Nasiri R., Patent No. 111415 , IRIPO, 2024. 
  
-- **Intelligent Underactuated Prosthetic Hand Using Combined Mechanism of Series Elastic Actuator and Cam Set Capable of Optimizing Finger Trajectories**,
+- [Intelligent Underactuated Prosthetic Hand Using Combined Mechanism of Series Elastic Actuator and Cam Set Capable of Optimizing Finger Trajectories]()
   - **Kargar A.**, Koochakzadeh E., and Nasiri R., Application No. 68219572736812, IRIPO, 2025 *(Patent Under Review)*
 
-- **Intelligent Underactuated Ultra Compact Prosthetic Hand Using Combined Mechanism of Series Elastic Actuator and Cables for Finger Trajectory Optimization**,
+- [Intelligent Underactuated Ultra Compact Prosthetic Hand Using Combined Mechanism of Series Elastic Actuator and Cables for Finger Trajectory Optimization]()
   - **Kargar A.**, Koochakzadeh E., and Nasiri R., Application No. 30842227138721, IRIPO, 2025 *(Patent Under Review)*
 
-- **Light and Sound Stimulation System with User Data Collection Capability**,
+- [Light and Sound Stimulation System with User Data Collection Capability]()
   - **Kargar A.**, Moradi M., Abolghasemi M., Moradi F. and Ghalandarzadeh R., Application No. 140350140003007524, IRIPO, 2025 *(Patent Under Review)*
 
 
