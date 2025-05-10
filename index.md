@@ -17,7 +17,7 @@ With a focus on designing and implementing novel systems, I am trying to bring a
 
 ## Interests
 
-Robotics & System Design, Collaborative Robotics, Service Robots, Human-Robot Interaction, Social Robot, Rehabilitation Robotics.
+Robotics & System Design, Collaborative Robotics, Service Robots, Human Centerd Robotics, Human-Robot Interaction, Social Robot, Rehabilitation Robotics.
 
 ## Education
 
@@ -53,8 +53,17 @@ Robotics & System Design, Collaborative Robotics, Service Robots, Human-Robot In
 ## Patent
 
 - [Intelligent underactuated prosthetic hand using series elastic actuators](https://ipm.ssaa.ir/Search-Result?page=1&DecNo=140350140003001480&RN=111415)
-  - **Kargar A.**, Koochakzadeh E., and Nasiri R., Iranian Patent 111415, 2024. 
+  - **Kargar A.**, Koochakzadeh E., and Nasiri R., Patent No. 111415 , IRIPO, 2024. 
  
+- **Intelligent Underactuated Prosthetic Hand Using Combined Mechanism of Series Elastic Actuator and Cam Set Capable of Optimizing Finger Trajectories**,
+  - **Kargar A.**, Koochakzadeh E., and Nasiri R., Application No. 68219572736812, IRIPO, 2025 *(Patent Under Review)*
+
+- **Intelligent Underactuated Ultra Compact Prosthetic Hand Using Combined Mechanism of Series Elastic Actuator and Cables for Finger Trajectory Optimization**,
+  - **Kargar A.**, Koochakzadeh E., and Nasiri R., Application No. 30842227138721, IRIPO, 2025 *(Patent Under Review)*
+
+- **Light and Sound Stimulation System with User Data Collection Capability**,
+  - **Kargar A.**, Moradi M., Abolghasemi M., Moradi F. and Ghalandarzadeh R., Application No. 140350140003007524, IRIPO, 2025 *(Patent Under Review)*
+
 
 ## Skills
 
