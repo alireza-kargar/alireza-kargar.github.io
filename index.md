@@ -45,14 +45,15 @@ Robotics & System Design, Collaborative Robotics, Service Robots, Human Centerd 
 ## Publication
 
 - [ICRoM 2023](https://doi.org/10.1109/ICRoM60803.2023.10412541)
-  - Mehralizadeh B., Soleiman P., Nikkhoo S., Rahimi M., **Kargar A.**, Masoumi F., Moradi H., Multi-Modal ASD Screening System: A Preliminary Study. In 11th RSI International Conference on Robotics and Mechatronics (ICRoM) 2023 Dec 19 (pp. 228-234). IEEE.
+  - Mehralizadeh, B., Soleiman, P., Nikkhoo, S., Rahimi, M., **Kargar, A.**, Masoumi, F., & Moradi, H. (2023, December). Multi-Modal ASD Screening System: A Preliminary Study. In 2023 11th RSI International Conference on Robotics and Mechatronics (ICRoM) (pp. 228-234). IEEE.
 
 - [IROS 2024](https://doi.org/10.1109/IROS58592.2024.10803048)
-  - Koochakzadeh E., **Kargar A.**, Sattari P., Ravanshid D., Nasiri R., Seven Benefits of Using Series Elastic Actuators in the Design of an Affordable, Simple Controlled, and Functional Prosthetic Hand. In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2024).
- 
-- [IROS 2025](https://www.iros25.org/) *(Under Review)*
+ - Koochakzadeh, E., **Kargar, A.**, Sattari, P., Ravanshid, D., & Nasiri, R. (2024, October). Seven Benefits of Using Series Elastic Actuators in the Design of an Affordable, Simple Controlled, and Functional Prosthetic Hand. In 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 2444-2449). IEEE.
+
+- [IROS 2025 *(Under Review)*](https://www.iros25.org/) 
  - Koochakzadeh E., **Kargar A.**, Amirabadizadeh E., Zakerzadeh M., Nasiri R., Design of Tendon-Driven Prosthetic Fingers to Improve Compactness and Kinematic Coordination During Grasp: A Comparative Experimental Study. In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2025).
  
+
 
 ## Patent
 
@@ -71,11 +72,11 @@ Robotics & System Design, Collaborative Robotics, Service Robots, Human Centerd 
 
 ## Skills
 
-- **Programming**: Python, MATLAB, C/ C++ (Arduino), Ladder (PLC), ROS, Git
-- **CAD/CAM/CAE**: SOLIDWORKS, CATIA, MSC Adams, ABAQUS, 3D Print Softwares
-- **Professional skills**: Pneumatic & Hydraulic Systems
-- **Soft Skills**: Critical thinking, R&D team leadership, Systematic thinking
-- **Language**: English (Proficient), Farsi (Native)
+- **Programming**: *Python, MATLAB, C/ C++ (Arduino), Ladder (PLC), ROS, Git*
+- **CAD/CAM/CAE**: *SOLIDWORKS, CATIA, MSC Adams, ABAQUS, 3D Print Softwares*
+- **Professional skills**: *Pneumatic & Hydraulic Systems*
+- **Soft Skills**: *Critical thinking, R&D team leadership, Systematic thinking*
+- **Language**: *English (Proficient), Farsi (Native)*
 
 <!-- 
 
@@ -103,3 +104,8 @@ Robotics & System Design, Collaborative Robotics, Service Robots, Human Centerd 
 
 
 ### Also, check out [my CV](https://alireza-kargar.github.io/assets/files/CV-AlirezaKargar.pdf)
+
+
+
+
+
