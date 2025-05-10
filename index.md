@@ -27,7 +27,8 @@ Robotics & System Design, Collaborative Robotics, Service Robots, Human Centerd 
 ## Research Experience
 
 - **Research Assitant in Research Institute for Robotics, Artificial Intelligence & Information Science, University Of Tehran**
-  - [Prosthetic Hand Using Series Elastic Actuators](https://alireza-kargar.github.io//projects/prosthetichand/) 
+  - [Prosthetic Hand Using Series Elastic Actuators](https://alireza-kargar.github.io//projects/prosthetichand/)
+  - [Tendon-Driven Bio-inspired Finger Mechanism]()
 - **Research Assistant in Advanced Robotics and Intelligent Systems Lab, University of Tehran**
   - [Cleaner Robot for glass façade buildings](https://alireza-kargar.github.io//projects/cleanerbot/) 
   - [BAMS - Interactive social robot platforms](https://alireza-kargar.github.io//projects/bams/)
