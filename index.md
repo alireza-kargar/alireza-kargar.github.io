@@ -29,6 +29,8 @@ Robotics & System Design, Collaborative Robotics, Service Robots, Human Centerd 
 - **Research Assitant in Research Institute for Robotics, Artificial Intelligence & Information Science, University Of Tehran**
   - [Prosthetic Hand Using Series Elastic Actuators](https://alireza-kargar.github.io//projects/prosthetichand/)
   - [Tendon-Driven Bio-inspired Finger Mechanism]()
+  - [Dynamic Vibration Belt]()
+
 - **Research Assistant in Advanced Robotics and Intelligent Systems Lab, University of Tehran**
   - [Cleaner Robot for glass façade buildings](https://alireza-kargar.github.io//projects/cleanerbot/) 
   - [BAMS - Interactive social robot platforms](https://alireza-kargar.github.io//projects/bams/)
@@ -45,35 +47,29 @@ Robotics & System Design, Collaborative Robotics, Service Robots, Human Centerd 
 
 ## Publication
 
-- [ICRoM 2023](https://doi.org/10.1109/ICRoM60803.2023.10412541)
-  - Mehralizadeh, B., Soleiman, P., Nikkhoo, S., Rahimi, M., **Kargar, A.**, Masoumi, F., & Moradi, H. (2023, December). Multi-Modal ASD Screening System: A Preliminary Study. In 2023 11th RSI International Conference on Robotics and Mechatronics (ICRoM) (pp. 228-234). IEEE.
-
 - [IROS 2024](https://doi.org/10.1109/IROS58592.2024.10803048)
  - Koochakzadeh, E., **Kargar, A.**, Sattari, P., Ravanshid, D., & Nasiri, R. (2024, October). Seven Benefits of Using Series Elastic Actuators in the Design of an Affordable, Simple Controlled, and Functional Prosthetic Hand. In 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 2444-2449). IEEE.
 
-- [IROS 2025 *(Under Review)*](https://www.iros25.org/) 
- - Koochakzadeh E., **Kargar A.**, Amirabadizadeh E., Zakerzadeh M., Nasiri R., Design of Tendon-Driven Prosthetic Fingers to Improve Compactness and Kinematic Coordination During Grasp: A Comparative Experimental Study. In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2025).
- 
+- [ICRoM 2023](https://doi.org/10.1109/ICRoM60803.2023.10412541)
+  - Mehralizadeh, B., Soleiman, P., Nikkhoo, S., Rahimi, M., **Kargar, A.**, Masoumi, F., & Moradi, H. (2023, December). Multi-Modal ASD Screening System: A Preliminary Study. In 2023 11th RSI International Conference on Robotics and Mechatronics (ICRoM) (pp. 228-234). IEEE.
 
 
 ## Patent
 
+
+- [•	Intelligent Underactuated Prosthetic Hand Using Combined Mechanism of Series Elastic Actuator and Cam Set Capable of Optimizing Finger Trajectories.](https://ipm.ssaa.ir/Search-Result?page=1&DecNo=yWTxS5bM/7t0+YVHD7L6gTtp9y4qDYbMVbzJyaBpKUa9sxFHNWvKJ6lQU1zSgvp1&RN=voBHCftWC/QBo1d7o6leuw==)
+  - **Kargar A.**, Koochakzadeh E., Amirabadizadeh E., Zakerzadeh M., and Nasiri R., Patent No. 113446, IRIPO, 2025.
+
+  - [Intelligent Underactuated Ultra Compact Prosthetic Hand Using Combined Mechanism of Series Elastic Actuator and Cables for Finger Trajectory Optimization.](https://ipm.ssaa.ir/Search-Result?page=1&DecNo=yWTxS5bM/7t0+YVHD7L6gTtp9y4qDYbMVbzJyaBpKUYbnyL2iCIdlOAbMtMocQVW&RN=kTiC1gptPKTRqKNSBwXIFw==)
+  - **Kargar A.**, Koochakzadeh E., Amirabadizadeh E., and Nasiri R., Patent No. 113031, IRIPO, 2025.
+
 - [Intelligent underactuated prosthetic hand using series elastic actuators](https://ipm.ssaa.ir/Search-Result?page=1&DecNo=140350140003001480&RN=111415)
   - **Kargar A.**, Koochakzadeh E., and Nasiri R., Patent No. 111415 , IRIPO, 2024. 
  
-- [Intelligent Underactuated Prosthetic Hand Using Combined Mechanism of Series Elastic Actuator and Cam Set Capable of Optimizing Finger Trajectories]()
-  - **Kargar A.**, Koochakzadeh E., and Nasiri R., Application No. 68219572736812, IRIPO, 2025 *(Patent Under Review)*
-
-- [Intelligent Underactuated Ultra Compact Prosthetic Hand Using Combined Mechanism of Series Elastic Actuator and Cables for Finger Trajectory Optimization]()
-  - **Kargar A.**, Koochakzadeh E., and Nasiri R., Application No. 30842227138721, IRIPO, 2025 *(Patent Under Review)*
-
-- [Light and Sound Stimulation System with User Data Collection Capability]()
-  - **Kargar A.**, Moradi M., Abolghasemi M., Moradi F. and Ghalandarzadeh R., Application No. 140350140003007524, IRIPO, 2025 *(Patent Under Review)*
-
 
 ## Skills
 
-- **Programming**: *Python, MATLAB, C/ C++ (Arduino), Ladder (PLC), ROS, Git*
+- **Programming**: *Python, MATLAB, C/ C++ (Arduino), Ladder (PLC), Verilog (FPGA), Git*
 - **CAD/CAM/CAE**: *SOLIDWORKS, CATIA, MSC Adams, ABAQUS, 3D Print Softwares*
 - **Professional skills**: *Pneumatic & Hydraulic Systems*
 - **Soft Skills**: *Critical thinking, R&D team leadership, Systematic thinking*
