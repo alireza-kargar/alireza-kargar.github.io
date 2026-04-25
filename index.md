@@ -60,7 +60,7 @@ Human-Centered Robotics, Rehabilitation Robotics, Computer-Aided Design, Service
 - [Intelligent Underactuated Prosthetic Hand Using Combined Mechanism of Series Elastic Actuator and Cam Set Capable of Optimizing Finger Trajectories.](https://ipm.ssaa.ir/Search-Result?page=1&DecNo=yWTxS5bM/7t0+YVHD7L6gTtp9y4qDYbMVbzJyaBpKUa9sxFHNWvKJ6lQU1zSgvp1&RN=voBHCftWC/QBo1d7o6leuw==)
   - **Kargar A.**, Koochakzadeh E., Amirabadizadeh E., Zakerzadeh M., and Nasiri R., Patent No. 113446, IRIPO, 2025.
 
-  - [Intelligent Underactuated Ultra Compact Prosthetic Hand Using Combined Mechanism of Series Elastic Actuator and Cables for Finger Trajectory Optimization.](https://ipm.ssaa.ir/Search-Result?page=1&DecNo=yWTxS5bM/7t0+YVHD7L6gTtp9y4qDYbMVbzJyaBpKUYbnyL2iCIdlOAbMtMocQVW&RN=kTiC1gptPKTRqKNSBwXIFw==)
+- [Intelligent Underactuated Ultra Compact Prosthetic Hand Using Combined Mechanism of Series Elastic Actuator and Cables for Finger Trajectory Optimization.](https://ipm.ssaa.ir/Search-Result?page=1&DecNo=yWTxS5bM/7t0+YVHD7L6gTtp9y4qDYbMVbzJyaBpKUYbnyL2iCIdlOAbMtMocQVW&RN=kTiC1gptPKTRqKNSBwXIFw==)
   - **Kargar A.**, Koochakzadeh E., Amirabadizadeh E., and Nasiri R., Patent No. 113031, IRIPO, 2025.
 
 - [Intelligent underactuated prosthetic hand using series elastic actuators](https://ipm.ssaa.ir/Search-Result?page=1&DecNo=140350140003001480&RN=111415)
