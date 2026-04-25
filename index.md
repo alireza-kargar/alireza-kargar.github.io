@@ -17,7 +17,7 @@ With a focus on designing and implementing novel systems, I am trying to bring a
 
 ## Interests
 
-Robotics & System Design, Collaborative Robotics, Service Robots, Human Centerd Robotics, Human-Robot Interaction, Social Robot, Rehabilitation Robotics.
+Human-Centered Robotics, Rehabilitation Robotics, Computer-Aided Design, Service Robots.
 
 ## Education
 
@@ -57,7 +57,7 @@ Robotics & System Design, Collaborative Robotics, Service Robots, Human Centerd 
 ## Patent
 
 
-- [•	Intelligent Underactuated Prosthetic Hand Using Combined Mechanism of Series Elastic Actuator and Cam Set Capable of Optimizing Finger Trajectories.](https://ipm.ssaa.ir/Search-Result?page=1&DecNo=yWTxS5bM/7t0+YVHD7L6gTtp9y4qDYbMVbzJyaBpKUa9sxFHNWvKJ6lQU1zSgvp1&RN=voBHCftWC/QBo1d7o6leuw==)
+- [Intelligent Underactuated Prosthetic Hand Using Combined Mechanism of Series Elastic Actuator and Cam Set Capable of Optimizing Finger Trajectories.](https://ipm.ssaa.ir/Search-Result?page=1&DecNo=yWTxS5bM/7t0+YVHD7L6gTtp9y4qDYbMVbzJyaBpKUa9sxFHNWvKJ6lQU1zSgvp1&RN=voBHCftWC/QBo1d7o6leuw==)
   - **Kargar A.**, Koochakzadeh E., Amirabadizadeh E., Zakerzadeh M., and Nasiri R., Patent No. 113446, IRIPO, 2025.
 
   - [Intelligent Underactuated Ultra Compact Prosthetic Hand Using Combined Mechanism of Series Elastic Actuator and Cables for Finger Trajectory Optimization.](https://ipm.ssaa.ir/Search-Result?page=1&DecNo=yWTxS5bM/7t0+YVHD7L6gTtp9y4qDYbMVbzJyaBpKUYbnyL2iCIdlOAbMtMocQVW&RN=kTiC1gptPKTRqKNSBwXIFw==)
