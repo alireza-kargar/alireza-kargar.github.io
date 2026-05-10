@@ -20,9 +20,9 @@ With a focus on designing and implementing novel systems, I am trying to bring a
 Human-Centered Robotics, Rehabilitation Robotics, Computer-Aided Design, Service Robots.
 
 ## Education
-- Ph.D. Student in Mechatronics Engineering - University of Tehran
-- M.S. in Mechatronics Engineering - University of Tehran
-- B.S. in Mechanical Engineering - Islamic Azad University, West Tehran Branch
+- Ph.D. Student in Mechatronics engineering - University of Tehran
+- M.S. in Mechatronics engineering - University of Tehran
+- B.S. in Mechanical engineering - Islamic Azad University, West Tehran Branch
 
 ## Research Experience
 
